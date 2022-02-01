@@ -6,16 +6,15 @@ Examples that illustrate how to use 3D Slicer via Jupyter notebooks in Python
 
 All the notebooks can be run interactively in the web browser via Binder by clicking "Launch binder".
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/slicer/SlicerNotebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fepegar/SlicerNotebooks/master)
 
-## Running locally using docker
+# SVT-web
 
-Download or clone this repository to your local computer.
+Click [here](https://mybinder.org/v2/gh/fepegar/SlicerNotebooks/HEAD?filepath=SVT-web.ipynb) to open the notebook.
+Click [here](https://mybinder.org/v2/gh/fepegar/SlicerNotebooks/master) to open the repo.
 
-Run the docker image as described [here](https://github.com/Slicer/SlicerDocker/blob/master/README.rst#usage-of-slicer-notebook-image).
+It might take a couple of minutes to launch.
+Once you can see the notebook, click on the `Run` button.
+3D Slicer will open in a new tab.
 
-## Running local installation
-
-Download or clone this repository to your local computer.
-
-Follow setup instructions [here](https://github.com/Slicer/SlicerJupyter#option-3-install-slicer-and-jupyter-on-your-own-computer).
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fepegar/SlicerNotebooks/master)
